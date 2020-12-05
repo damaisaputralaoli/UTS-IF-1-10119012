@@ -1,10 +1,9 @@
 package uts.pkgif.pkg1.pkg101190.damai.saputra.laoli.no.pkg3;
 
 /**
- * @author NAMA     : Muhammad Anggawan Ridho Islami
- * KELAS    : IF 10K
- * NIM      : 10119909
- */
+ * @author NAMA     : DAMAI SAPUTRA LAOLI
+ * KELAS    : IF 1
+ * NIM      : 10119012
 
 public class Folk extends Country {
     public void genreFolk(String artistName){
